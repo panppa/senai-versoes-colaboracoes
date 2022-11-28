@@ -1,5 +1,6 @@
 <h1>🙏🙏
-<ul>
+<br>
+<h4>
 	<li>git remote add README.md https://github.com/panppa/senai-versoes-colaboracoes.git<li>
 	<li>git commit
 	<li>git init
@@ -7,4 +8,3 @@
 	<li>git branch -M main
 	<li>git push -u origin main
 	<li>git remote add origin https://github.com/panppa/senai-versoes-colaboracoes.git<li>
-<ul>
